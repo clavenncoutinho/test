@@ -1,2 +1,5 @@
 this is me trying git opertions
 I study in crce 
+
+
+i wanted to try stash so let me try..
